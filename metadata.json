@@ -1,0 +1,8 @@
+{
+  "name": "Hyoseong !!!!정보탐정단: 이 정보, 믿어도 될까?",
+  "description": "초등학교 5학년 국어 매체 자료 신뢰성 판단 활동 웹앱",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
